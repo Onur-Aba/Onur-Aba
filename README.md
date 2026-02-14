@@ -44,20 +44,24 @@ I love turning complex problems into simple, beautiful, and intuitive interface 
 
 ---
 
-### 🏆 GitHub Trophies & Stats
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Onur-Aba&theme=tokyonight&column=7" alt="Trophies" />
-  <br />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Onur-Aba&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Onur-Aba&layout=compact&theme=tokyonight" height="180" alt="Top Langs" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Onur-Aba&theme=tokyonight" alt="GitHub Streak" />
+
+<br>
+<br>
+
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Onur-Aba&show_icons=true&theme=tokyonight" height="180" alt="GitHub Stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Onur-Aba&layout=compact&theme=tokyonight" height="180" alt="Top Langs" />
+
 </div>
 
 ---
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/onur-aba-2116032a1/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onur-aba)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/onurabaa_)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onuraba34@gmail.com)
