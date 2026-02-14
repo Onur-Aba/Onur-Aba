@@ -21,7 +21,7 @@
 <a href="mailto:onuraba34@gmail.com">
   <img src="https://img.shields.io/badge/📩_Let's_Discuss_Your_Project-Email_Me-black?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="[https://linkedin.com/in/onur-aba](https://www.linkedin.com/in/onur-aba-2116032a1/)">
+<a href="https://www.linkedin.com/in/onur-aba-2116032a1/">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
@@ -35,7 +35,7 @@
 
 | **Core Specialization (Mobile)** | **Backend & Architecture** | **Infrastructure & Tools** |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple" /> | <img src="https://skillicons.dev/icons?i=nestjs,ts,nodejs,postgres" /> | <img src="https://skillicons.dev/icons?i=firebase,supabase,git,figma" /> |
+| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) <br> ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) <br> ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) <br> ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white) | ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) <br> ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) <br> ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) <br> ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) <br> ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) <br> ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) <br> ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) |
 | *Pixel-perfect UIs & Native Performance* | *Secure Auth, REST/Socket APIs & Microservices* | *CI/CD, Real-time Databases & Prototyping* |
 
 <br/>
