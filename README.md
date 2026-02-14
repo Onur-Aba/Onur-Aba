@@ -37,27 +37,23 @@ I love turning complex problems into simple, beautiful, and intuitive interface 
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **BlueSOS** | An emergency notification application designed for rapid response. Features include real-time location tracking, Bluetooth RSSI for proximity, and separate interfaces for citizens and first responders. | `Flutter` `Firebase` `Google Maps API` |
-| **SaaS Planner** | A multi-tenant planning SaaS platform designed for high efficiency. Includes subscription management via Paddle and robust data handling. | `Next.js` `TypeScript` `Supabase` `Paddle` |
-| **Messaging Backend** | A scalable backend architecture for a modern messaging application. Supports friendship systems, blocking, message requests, and real-time socket communication. | `NestJS` `PostgreSQL` `TypeORM` |
-| **Desktop Messenger** | A lightweight and secure desktop messaging application focused on privacy and speed. | `Tauri` `TypeScript` `Firebase` |
-| **DevOkur** *(Concept)* | A minimalist, dark-mode platform for developers to discover curated articles and job listings. | `React` `Minimalist UI` |
+| **BlueSOS** | Emergency notification app with separate interfaces for citizens & responders. | `Flutter` `Firebase` |
+| **SaaS Planner** | Multi-tenant planning SaaS with subscription management. | `Next.js` `Supabase` |
+| **Messaging Backend** | Scalable backend supporting friendship & blocking systems. | `NestJS` `PostgreSQL` |
+| **Desktop Messenger** | Secure desktop messaging app focused on privacy. | `Tauri` `TypeScript` |
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Onur-Aba&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Aba&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onur-Aba&show_icons=true&theme=tokyonight)](https://github.com/Onur-Aba)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Aba&layout=compact&theme=tokyonight)](https://github.com/Onur-Aba)
 
 ---
 
 ### 📫 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/onur-aba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
-<a href="https://instagram.com/onurabaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:onuraba34@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/onur-aba)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/onurabaa_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:onuraba34@gmail.com)
