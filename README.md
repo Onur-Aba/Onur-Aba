@@ -49,11 +49,10 @@ I love turning complex problems into simple, beautiful, and intuitive interface 
 
 <div align="center">
   <a href="https://github.com/Onur-Aba">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Onur-Aba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Aba&layout=compact&theme=tokyonight"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Onur-Aba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Aba&layout=compact&theme=tokyonight" height="180" alt="languages" />
   </a>
 </div>
-
 ---
 
 ### 📫 Connect with Me
@@ -61,5 +60,5 @@ I love turning complex problems into simple, beautiful, and intuitive interface 
 <p align="left">
 <a href="https://linkedin.com/in/onur-aba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/onurabaa_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
-<a href="mailto:seninmailadresin@example.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
+<a href="mailto:onuraba34@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
