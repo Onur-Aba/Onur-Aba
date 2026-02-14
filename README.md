@@ -47,12 +47,8 @@ I love turning complex problems into simple, beautiful, and intuitive interface 
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/Onur-Aba">
-    <img src="https://github-readme-stats.vercel.app/api?username=Onur-Aba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="180" alt="stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Aba&layout=compact&theme=tokyonight" height="180" alt="languages" />
-  </a>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onur-Aba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Onur-Aba&layout=compact&theme=tokyonight)
 ---
 
 ### 📫 Connect with Me
