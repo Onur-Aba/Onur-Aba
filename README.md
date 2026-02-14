@@ -21,7 +21,7 @@
 <a href="mailto:onuraba34@gmail.com">
   <img src="https://img.shields.io/badge/📩_Let's_Discuss_Your_Project-Email_Me-black?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/onur-aba">
+<a href="[https://linkedin.com/in/onur-aba](https://www.linkedin.com/in/onur-aba-2116032a1/)">
   <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
